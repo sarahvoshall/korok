@@ -1,0 +1,19 @@
+* {
+  text-align: center;
+  /* background-color: aquamarine; */
+}
+
+body {
+  background-color: teal;
+  color: white;
+}
+
+nav {
+  padding: 18px;
+  margin: 6px;
+  background-color: pink;
+}
+
+button {
+  background-color: yellow;
+}
